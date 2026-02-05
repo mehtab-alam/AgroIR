@@ -1,0 +1,445 @@
+term,label,source
+bioreactor aerobic,TM,llm_only
+aerobic bioconversion,TM,llm_only
+biogas plant,TM,llm_only
+mesophilic digestion,TM,llm_only
+vermifuel technology,TM,llm_only
+microalgae cultivation,TM,llm_only
+biodigester systems,TM,llm_only
+phototrophic bacteria,TM,llm_only
+microalgae harvesting,TM,llm_only
+vermifuel reactors,TM,llm_only
+biogas upgrading,OWT,llm_only
+aerobic treatment,OWT,llm_only
+continuous fermentation,OWT,llm_only
+composting facility,OWT,llm_only
+thermophilic digestion,OWT,llm_only
+agriwaste treatment,OWT,llm_only
+bioenergy crops,OWT,llm_only
+composting technology,OWT,llm_only
+biowaste treatment,OWT,llm_only
+biomass gasification,OWT,llm_only
+vermiculture reactor,OWT,llm_only
+composting operation,OWT,llm_only
+bioenergy feedstock,OWT,llm_only
+biomass pyrolysis,OWT,llm_only
+composting methods,OWT,llm_only
+biomass pelletizing,OWT,llm_only
+thermophilic fermentation,OWT,llm_only
+biomass combustion,OWT,llm_only
+composting optimization,OWT,llm_only
+biomass torrefaction,OWT,llm_only
+agricultural cultivation,AV,llm_only
+soil tillage,AV,llm_only
+nutrient management,AV,llm_only
+farmland,AV,llm_only
+organic matter,AV,llm_only
+harvest season,AV,llm_only
+value addition,AV,llm_only
+sustainable agriculture,AV,llm_only
+cover crops,AV,llm_only
+silvopasture,AV,llm_only
+woody mulches,AV,llm_only
+lucerne,AV,llm_only
+lucerne cultivation,AV,llm_only
+phytoremediation,AV,llm_only
+agroforestry systems,AV,llm_only
+biochar amendment,AV,llm_only
+biogas upgrading,AV,llm_only
+aerobic decomposition,AV,llm_only
+continuous cropping,AV,llm_only
+vermiculture reactor,AV,llm_only
+thermophilic digestion,AV,llm_only
+enhanced biomethanation,AV,llm_only
+compost tea,AV,llm_only
+crop protection,AV,llm_only
+crop establishment,AV,llm_only
+agroecosystem services,AV,llm_only
+precision agriculture,AV,llm_only
+smart farming,AV,llm_only
+crop modeling,AV,llm_only
+agricultural extension,AV,llm_only
+agricultural policy,AV,llm_only
+agricultural subsidies,AV,llm_only
+agroforestry planting,AV,llm_only
+silvopasture management,AV,llm_only
+bagasse compost,AV,llm_only
+bagasse bioenergy,AV,llm_only
+biomass utilization,AV,llm_only
+biogas recovery,AV,llm_only
+thermophilic composters,AV,llm_only
+agroecological intensification,AV,llm_only
+intercropping practice,AV,llm_only
+mulch layer,AV,llm_only
+mulching techniques,AV,llm_only
+carbon sequestration,AV,llm_only
+soil health,AV,llm_only
+sustainable intensification,AV,llm_only
+regenerative agriculture,AV,llm_only
+ecological farming,AV,llm_only
+agroecology principles,AV,llm_only
+biomass feedstock,AV,llm_only
+aerobic hybrid bioreactor,TM,llm_only
+aerobic membrane bioreactor,TM,llm_only
+aerobic compost bioreactor,TM,llm_only
+biogas digester plant,TM,llm_only
+plant . biogas,TM,llm_only
+biogas power plants,TM,llm_only
+biogas plants,TM,llm_only
+biogas production plants,TM,llm_only
+biogas power plant,TM,llm_only
+"""plants , biogas""",TM,llm_only
+mesophilic anaerobic digestion,TM,llm_only
+mesophilic solid digestate,TM,llm_only
+mesophilic digester,TM,llm_only
+mesophilic single digestion,TM,llm_only
+digestate after mesophilic,TM,llm_only
+mesophilic anaerobic digesters,TM,llm_only
+mesophilic anaerobic digester,TM,llm_only
+digestate of mesophilic,TM,llm_only
+mesophilic digesters,TM,llm_only
+cultivating microalgae,TM,llm_only
+cultivation microalgae,TM,llm_only
+microalgae were cultivated,TM,llm_only
+microalgae biomass cultivation,TM,llm_only
+microalgae species cultivated,TM,llm_only
+microalgae are cultivated,TM,llm_only
+cultivation of microalgae,TM,llm_only
+cultivate microalgae,TM,llm_only
+system biodigester,TM,llm_only
+microalgae biomass harvested,TM,llm_only
+upgrade biogas,OWT,llm_only
+upgraded biogas,OWT,llm_only
+upgrade a biogas,OWT,llm_only
+biogas upgrade,OWT,llm_only
+upgrading biogas,OWT,llm_only
+upgrading of biogas,OWT,llm_only
+treatments in aerobic,OWT,llm_only
+aerobic sewage treatment,OWT,llm_only
+treatment by aerobic,OWT,llm_only
+aerobic composting treatment,OWT,llm_only
+aerobic biological treatment,OWT,llm_only
+aerobic wastewater treatment,OWT,llm_only
+continuous fermenting,OWT,llm_only
+continuous ethanol fermentation,OWT,llm_only
+continuous dry fermentation,OWT,llm_only
+continuous anaerobic fermentation,OWT,llm_only
+continuous ethanol fermentations,OWT,llm_only
+continuous fermentations,OWT,llm_only
+continuous acetonebutanolethanol fermentation,OWT,llm_only
+composting facilities,OWT,llm_only
+compost facility,OWT,llm_only
+digesting thermophilic,OWT,llm_only
+digestate after thermophilic,OWT,llm_only
+digestate during thermophilic,OWT,llm_only
+thermophilic wet digestion,OWT,llm_only
+thermophilic anaerobic digesters,OWT,llm_only
+digestion under thermophilic,OWT,llm_only
+thermophilic digesters,OWT,llm_only
+digestate under thermophilic,OWT,llm_only
+thermophilic anaerobic digestion,OWT,llm_only
+thermophilic pilot digester,OWT,llm_only
+thermophilic digestate,OWT,llm_only
+thermophilic anaerobic digester,OWT,llm_only
+crops based bioenergy,OWT,llm_only
+bioenergy crop,OWT,llm_only
+bioenergy from crop,OWT,llm_only
+compost manure technology,OWT,llm_only
+composting composting technology,OWT,llm_only
+technologies . compost,OWT,llm_only
+compost technology,OWT,llm_only
+composting technologies,OWT,llm_only
+technological characterization compost,OWT,llm_only
+technologies ( composting,OWT,llm_only
+technology composting,OWT,llm_only
+technologies during composting,OWT,llm_only
+compost . technological,OWT,llm_only
+technology for composting,OWT,llm_only
+composting treatment technology,OWT,llm_only
+operation . composting,OWT,llm_only
+compost operation,OWT,llm_only
+composting operations,OWT,llm_only
+operation . composted,OWT,llm_only
+compost plant operators,OWT,llm_only
+operation in composting,OWT,llm_only
+operation of composting,OWT,llm_only
+operated composting,OWT,llm_only
+composting was operated,OWT,llm_only
+compost turning operation,OWT,llm_only
+bioenergy feedstocks,OWT,llm_only
+feedstock for bioenergy,OWT,llm_only
+biomass pellet pyrolysis,OWT,llm_only
+biomass using pyrolysis,OWT,llm_only
+pyrolysis of biomass,OWT,llm_only
+"""biomass , pyrolysis""",OWT,llm_only
+biomass via pyrolysis,OWT,llm_only
+pyrolysis in biomass,OWT,llm_only
+methods of compost,OWT,llm_only
+method for composting,OWT,llm_only
+methods during composting,OWT,llm_only
+method composting,OWT,llm_only
+methods on compost,OWT,llm_only
+method reduced composting,OWT,llm_only
+method of composting,OWT,llm_only
+method compost,OWT,llm_only
+method with composted,OWT,llm_only
+methods for composting,OWT,llm_only
+compost production methods,OWT,llm_only
+method to compost,OWT,llm_only
+composting . methods,OWT,llm_only
+methods of composting,OWT,llm_only
+method during composting,OWT,llm_only
+compost application method,OWT,llm_only
+compost . methods,OWT,llm_only
+compost fermentation method,OWT,llm_only
+compost method,OWT,llm_only
+composting plant methods,OWT,llm_only
+composting method,OWT,llm_only
+method . composts,OWT,llm_only
+method for compost,OWT,llm_only
+method of compost,OWT,llm_only
+"""methods , composting""",OWT,llm_only
+method in composting,OWT,llm_only
+biomass pellets,OWT,llm_only
+pellets composite biomass,OWT,llm_only
+biomass pellet,OWT,llm_only
+pelletized biomasses,OWT,llm_only
+pelletized biomass,OWT,llm_only
+thermophilic dark fermentation,OWT,llm_only
+thermophilic alkaline fermentation,OWT,llm_only
+thermophilic hydrogen fermentation,OWT,llm_only
+"""biomass , combustion""",OWT,llm_only
+biomass during combustion,OWT,llm_only
+combustion of biomass,OWT,llm_only
+biomass and combustion,OWT,llm_only
+composting was optimal,OWT,llm_only
+optimization of composting,OWT,llm_only
+optimized two-stage composting,OWT,llm_only
+optimized all compost,OWT,llm_only
+optimizes compost,OWT,llm_only
+optimal two-stage composting,OWT,llm_only
+optimize composting,OWT,llm_only
+composting . optimization,OWT,llm_only
+composting of optimized,OWT,llm_only
+composting area optimization,OWT,llm_only
+optimize the composting,OWT,llm_only
+optimizing the composting,OWT,llm_only
+optimization included composting,OWT,llm_only
+compost was optimal,OWT,llm_only
+optimization . composting,OWT,llm_only
+optimized composting,OWT,llm_only
+compost . optimization,OWT,llm_only
+composting . optimizing,OWT,llm_only
+optimal efb composting,OWT,llm_only
+composting : optimization,OWT,llm_only
+composting to optimize,OWT,llm_only
+optimize manure composting,OWT,llm_only
+biomass through torrefaction,OWT,llm_only
+agricultural soil cultivated,AV,llm_only
+agricultural crops cultivated,AV,llm_only
+tillage influences soil,AV,llm_only
+tillage and soil,AV,llm_only
+"""tillage , soil""",AV,llm_only
+tillage with soil,AV,llm_only
+tillage . soils,AV,llm_only
+tillage reduced soil,AV,llm_only
+tillage on soil,AV,llm_only
+tillage . soil,AV,llm_only
+management . nutrients,AV,llm_only
+management exacerbates nutrient,AV,llm_only
+management of nutrients,AV,llm_only
+management and nutrient,AV,llm_only
+farmlands,AV,llm_only
+organic vegetable matter,AV,llm_only
+organic dry matter,AV,llm_only
+organic natural matter,AV,llm_only
+"""matter , organic""",AV,llm_only
+matter in organic,AV,llm_only
+matter organic,AV,llm_only
+organic matters,AV,llm_only
+organic waste matter,AV,llm_only
+organic waste matters,AV,llm_only
+matter whether organic,AV,llm_only
+matter and organic,AV,llm_only
+harvesting seasons,AV,llm_only
+harvesting season,AV,llm_only
+harvest seasons,AV,llm_only
+harvested seasons,AV,llm_only
+value in addition,AV,llm_only
+additional value,AV,llm_only
+value . additionally,AV,llm_only
+sustainable agricultural,AV,llm_only
+sustainable urban agriculture,AV,llm_only
+sustainable organic agriculture,AV,llm_only
+sustainable animal agriculture,AV,llm_only
+sustainability in agricultural,AV,llm_only
+sustainable organic agricultural,AV,llm_only
+sustainable dryland agriculture,AV,llm_only
+sustainability of agricultural,AV,llm_only
+sustain agricultural,AV,llm_only
+sustained agricultural,AV,llm_only
+agriculture . sustainability,AV,llm_only
+sustainability of agriculture,AV,llm_only
+sustaining punjab agriculture,AV,llm_only
+agricultural sustainability,AV,llm_only
+agricultural systems sustain,AV,llm_only
+crops and cover,AV,llm_only
+covered by crop,AV,llm_only
+cover crop,AV,llm_only
+crop and cover,AV,llm_only
+cover cropping,AV,llm_only
+cover and crop,AV,llm_only
+cropped hillsides covering,AV,llm_only
+cover with crop,AV,llm_only
+covering with crop,AV,llm_only
+covering crop,AV,llm_only
+covering crops,AV,llm_only
+crop residues cover,AV,llm_only
+phytoremediate,AV,llm_only
+agroforestry parkland systems,AV,llm_only
+agroforestry system,AV,llm_only
+system agroforestry,AV,llm_only
+biochar soil amendment,AV,llm_only
+biochar amendments,AV,llm_only
+biochar as amendment,AV,llm_only
+amendments without biochar,AV,llm_only
+biochar amended,AV,llm_only
+amendment biochar,AV,llm_only
+amended with biochar,AV,llm_only
+"""amendment , biochar""",AV,llm_only
+amendment with biochar,AV,llm_only
+amendment biochars,AV,llm_only
+amendment of biochar,AV,llm_only
+upgrade biogas,AV,llm_only
+upgraded biogas,AV,llm_only
+upgrade a biogas,AV,llm_only
+biogas upgrade,AV,llm_only
+upgrading biogas,AV,llm_only
+upgrading of biogas,AV,llm_only
+decomposition in aerobic,AV,llm_only
+aerobic biotic decomposition,AV,llm_only
+continuous stocking/multiple cropping,AV,llm_only
+crop residues continuous,AV,llm_only
+continuously cropped,AV,llm_only
+continuous maize cropping,AV,llm_only
+continuous peanut cropping,AV,llm_only
+continuous crop,AV,llm_only
+continuous rice cropping,AV,llm_only
+continuing cereal-based crop,AV,llm_only
+digesting thermophilic,AV,llm_only
+digestate after thermophilic,AV,llm_only
+digestate during thermophilic,AV,llm_only
+thermophilic wet digestion,AV,llm_only
+thermophilic anaerobic digesters,AV,llm_only
+digestion under thermophilic,AV,llm_only
+thermophilic digesters,AV,llm_only
+digestate under thermophilic,AV,llm_only
+thermophilic anaerobic digestion,AV,llm_only
+thermophilic pilot digester,AV,llm_only
+thermophilic digestate,AV,llm_only
+thermophilic anaerobic digester,AV,llm_only
+enhanced the biomethane,AV,llm_only
+enhances the biomethane,AV,llm_only
+biomethane enhancement,AV,llm_only
+enhance biomethane,AV,llm_only
+biomethane could enhance,AV,llm_only
+enhance biomethanation,AV,llm_only
+enhanced biomethane,AV,llm_only
+enhancing biomethane,AV,llm_only
+enhance the biomethane,AV,llm_only
+compost teas,AV,llm_only
+compost from tea,AV,llm_only
+tea compost,AV,llm_only
+tea plant compost,AV,llm_only
+tea leaf compost,AV,llm_only
+protects crops,AV,llm_only
+crops while protecting,AV,llm_only
+protecting crop,AV,llm_only
+crop in protected,AV,llm_only
+establishment and crop,AV,llm_only
+model crop,AV,llm_only
+cropping systems model,AV,llm_only
+crop models,AV,llm_only
+modelling crop,AV,llm_only
+crop simulation model,AV,llm_only
+crop growth model,AV,llm_only
+crop . modeling,AV,llm_only
+cropping system models,AV,llm_only
+crop model,AV,llm_only
+extensively used agricultural,AV,llm_only
+policies about agricultural,AV,llm_only
+agricultural price policy,AV,llm_only
+plant based agroforestry,AV,llm_only
+agroforestry plant,AV,llm_only
+compost from bagasse,AV,llm_only
+composting bagasse,AV,llm_only
+composting of bagasse,AV,llm_only
+bagasse was composted,AV,llm_only
+bagasse to compost,AV,llm_only
+composted with bagasse,AV,llm_only
+bagasse by composting,AV,llm_only
+bagasse composts,AV,llm_only
+biomass energy utilization,AV,llm_only
+utilize excess biomass,AV,llm_only
+biomass utilized,AV,llm_only
+utilize the biomass,AV,llm_only
+utilize available biomass,AV,llm_only
+utilizing waste biomass,AV,llm_only
+biomass . utilization,AV,llm_only
+utilizing biomass,AV,llm_only
+utilization of biomass,AV,llm_only
+biomass by utilizing,AV,llm_only
+biomass : utilization,AV,llm_only
+utilized biomass,AV,llm_only
+biomasses being utilized,AV,llm_only
+utilized in biomass,AV,llm_only
+utilizing various biomass,AV,llm_only
+utilize biomass,AV,llm_only
+recovery . biogas,AV,llm_only
+recovery from biogas,AV,llm_only
+biogas energy recovery,AV,llm_only
+recovery ( biogas,AV,llm_only
+composting employing thermophilic,AV,llm_only
+thermophilic composting,AV,llm_only
+composting two thermophilic,AV,llm_only
+thermophilic aerobic composting,AV,llm_only
+thermophilic compost,AV,llm_only
+composting a thermophilic,AV,llm_only
+composting than thermophilic,AV,llm_only
+composting using thermophilic,AV,llm_only
+composting and thermophilic,AV,llm_only
+composting or thermophilic,AV,llm_only
+composting thermophilic,AV,llm_only
+thermophilic manure composting,AV,llm_only
+compost thermophilic,AV,llm_only
+practice of intercrop,AV,llm_only
+layer . mulch,AV,llm_only
+layers in mulched,AV,llm_only
+layer of mulch,AV,llm_only
+layer . mulching,AV,llm_only
+mulch layers,AV,llm_only
+layer of mulched,AV,llm_only
+layer within mulch,AV,llm_only
+mulching layers,AV,llm_only
+mulch farming techniques,AV,llm_only
+mulching technique,AV,llm_only
+technique and mulching,AV,llm_only
+techniques of mulched,AV,llm_only
+mulch is technique,AV,llm_only
+"""sequestration , carbon""",AV,llm_only
+sequestration of carbon,AV,llm_only
+carbon dioxide sequestration,AV,llm_only
+soil physical health,AV,llm_only
+soil amendments health,AV,llm_only
+health of soil,AV,llm_only
+soil biological health,AV,llm_only
+"""health , soil""",AV,llm_only
+sustainable yield intensification,AV,llm_only
+sustainable agricultural intensification,AV,llm_only
+feedstock biomass,AV,llm_only
+biomasses as feedstocks,AV,llm_only
+biomass as feedstock,AV,llm_only
+feedstock in biomass,AV,llm_only
+feedstock or biomass,AV,llm_only
+biomass feedstocks,AV,llm_only
+biomass as feedstocks,AV,llm_only
